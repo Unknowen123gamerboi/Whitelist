@@ -1,0 +1,6 @@
+keys = {
+[AnimeWare Is W] = true,
+[AnimeWare Best script] = true,
+[Al3ntel got big pp] = true
+}
+return keys
