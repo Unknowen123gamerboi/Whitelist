@@ -1,6 +1,7 @@
-keys = {
-[AnimeWare Is W] = true,
-[AnimeWare Best script] = true,
-[Al3ntel got big pp] = true
+userids = {
+[826506326] = true,
+[USERID HERE] = true,
+[USERIDHERE] = true
 }
-return keys
+return userids
+-- These will be our whitelisted users
